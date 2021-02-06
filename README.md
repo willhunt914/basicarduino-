@@ -17,3 +17,6 @@ this asignment should blink whevever you press the button this is the basic teac
 
 [twobuttontwoled](https://create.arduino.cc/editor/whunt29a/d2759c3f-77b4-4b45-953e-8ce063efe863)
 this is simelar to the button activated led but with two buttons and two leds instead
+
+Final project: This week I worked on the final project it is an adition to the servo controll coding asignment but with more freedom.
+You use onshape to design a holder for your servo controll. 
