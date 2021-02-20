@@ -22,3 +22,7 @@ I learned how to use multiple push puttons on a breadboard.
 
 Final project: This week I worked on the final project it is an adition to the servo controll coding asignment but with more freedom.
 You use onshape to design a holder for your servo control. 
+[finalproject code](https://create.arduino.cc/editor/whunt29a/40efa559-dfd3-461b-b00e-44b984502a94)
+
+This week I finished the final project code. 
+
