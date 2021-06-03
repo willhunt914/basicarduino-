@@ -26,3 +26,7 @@ You use onshape to design a holder for your servo control.
 
 This week I finished the final project code. 
 
+# Revision 
+
+This was the hardest project yet. For the first 3 asignments it was pretty simple but after that is was substancially. I stuggled with it beacause it was a less rigid descrption than other asignments that we had done in the past.  I did like this though I think that it made me learn more. This is the first project that I had to get help to fix my code. Because this was my first time using an arduino sometimes I would have to look up what was wrong with my code. Overall even though i t was dificul
+
